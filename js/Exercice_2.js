@@ -1,11 +1,11 @@
 let lastName;
-lastName="Nom : Doe";
+lastName="Doe";
 
 let firstName;
-firstName="Prénom : John";
+firstName= "John";
 
 let city;
-city="Ville : New-York";
+city= "New-York";
 
-alert(lastName+'\n'+firstName+'\n'  +city);
+alert("Nom : " +lastName+ '\n'+ "Prénom :" +firstName+ '\n' +"Ville :"  +city);
 

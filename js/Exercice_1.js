@@ -1,4 +1,4 @@
 // exo1
 let message;
 message = 'coucou';
-alert(message)
+alert(message);
